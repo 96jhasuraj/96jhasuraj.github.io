@@ -183,7 +183,7 @@ $$
 {: .box-note}
 - **Momentum** helps smooth gradients (via \\( m_t \\))
 - **RMS-like scaling** helps control learning rates (via \\( v_t \\))
-
+-  \\(\beta_1^t\\) will tend to 0 as t tends to infinity . Thus denominator tend to 1
 
 # Summing it all together :
 

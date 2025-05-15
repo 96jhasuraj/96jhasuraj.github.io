@@ -47,7 +47,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "suraj.jha96@gmail.com"
+  email: suraj.jha96@gmail.com
   github: 96jhasuraj
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -55,7 +55,7 @@ social-network-links:
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-  linkedin: https://www.linkedin.com/in/suraj-jha-8b2026181/
+  linkedin: suraj-jha-8b2026181
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://www.linkedin.com/in/suraj-jha-8b2026181/"
+url-pretty: "https://96jhasuraj.github.io/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
